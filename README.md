@@ -40,7 +40,7 @@ export PYTHONPATH=$(pwd)/code:$PYTHONPATH
 
 Here we show qualitative segmentation results:
 
-![Qualitative Results](assets/results.png)
+![Qualitative Results](images/Visualization.png)
 
 ---
 
