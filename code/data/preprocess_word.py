@@ -5,7 +5,7 @@ from tqdm import tqdm
 import torch
 import torch.nn.functional as F
 import sys
-sys.path.append('/home/chenzh/FILE1/DHC/DBANet/code') # append your own path
+sys.path.append('/home/chenzh/FILE1/DBANet/code') # append your own path
 from utils import read_list, read_nifti
 from utils.config import Config
 config = Config('word')
