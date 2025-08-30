@@ -29,18 +29,18 @@ pip install -r requirements.txt
 
 ## 🛠 Environment
 
-This code is based on [Example Project Name](https://github.com/xxx/example-project) and has been tested with:  
-
-- Python 3.6  
-- PyTorch 1.8  
-- torchvision 0.9.0  
-- CUDA 11.1 on Ubuntu 20.04  
-
 Before running the code, set the PYTHONPATH to the project root:
 
 ```bash
 export PYTHONPATH=$(pwd)/code:$PYTHONPATH
 ```
+
+---
+## 📊 Results
+
+Here we show qualitative segmentation results:
+
+![Qualitative Results](assets/results.png)
 
 ---
 
