@@ -55,7 +55,7 @@ bash train3times_seeds_10p.sh -c 0 -t amos -m DBANet -e '' -l 3e-2 -w 0.1
 ---
 ## 📊 Results
 
-Here we show qualitative segmentation results:
+Here we show qualitative segmentation results under a 40% labeled / 60% unlabeled Synapse training set :
 
 ![Qualitative Results](images/Visualization.png)
 
