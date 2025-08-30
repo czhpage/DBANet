@@ -35,6 +35,11 @@ Before running the code, set the PYTHONPATH to the project root:
 export PYTHONPATH=$(pwd)/code:$PYTHONPATH
 ```
 
+## 📂 Dataset Preparation
+
+`Synapse, WORD and AMOS datasets will be updated soon...`
+
+
 ---
 
 ## 🚀 Training
