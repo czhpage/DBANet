@@ -19,6 +19,6 @@ This is the official PyTorch implementation of our paper:
 ```bash
 git clone https://github.com/czhpage/DBANet.git
 cd DBANet
-conda create -n dbanet python=3.9 -y
+conda create -n dbanet python=3.8.2 -y
 conda activate dbanet
 pip install -r requirements.txt
