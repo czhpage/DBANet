@@ -9,7 +9,7 @@ This is the official PyTorch implementation of our paper:
 ---
 
 ## 🔥 Highlights
-- 🏆 State-of-the-art performance on **Synapse** and **WORD** datasets.  
+- 🏆 State-of-the-art performance on **Synapse**, **WORD** and **AMOS** datasets.  
 - ⚡ Efficient training and inference.  
 - 🔧 Easy to adapt to your own medical image segmentation tasks.
 - 📚 Clear comparisons with existing semi-supervised methods, making it easy to understand and learn, especially for newcomers.  
@@ -43,9 +43,13 @@ Run semi-supervised training, evaluating and testing with:
 bash train3times_seeds_10p.sh -c 0 -t synapse -m DBANet -e '' -l 3e-2 -w 0.1
 bash train3times_seeds_20p.sh -c 0 -t synapse -m DBANet -e '' -l 3e-2 -w 0.1
 bash train3times_seeds_40p.sh -c 0 -t synapse -m DBANet -e '' -l 3e-2 -w 0.1
-bash train3times_seeds_2p.sh -c 0 -t WORD -m DBANet -e '' -l 3e-2 -w 0.1
-bash train3times_seeds_5p.sh -c 0 -t WORD -m DBANet -e '' -l 3e-2 -w 0.1
-bash train3times_seeds_10p.sh -c 0 -t WORD -m DBANet -e '' -l 3e-2 -w 0.1
+bash train3times_seeds_2p.sh -c 0 -t word -m DBANet -e '' -l 3e-2 -w 0.1
+bash train3times_seeds_5p.sh -c 0 -t word -m DBANet -e '' -l 3e-2 -w 0.1
+bash train3times_seeds_10p.sh -c 0 -t word -m DBANet -e '' -l 3e-2 -w 0.1
+bash train3times_seeds_2p.sh -c 0 -t amos -m DBANet -e '' -l 3e-2 -w 0.1
+bash train3times_seeds_5p.sh -c 0 -t amos -m DBANet -e '' -l 3e-2 -w 0.1
+bash train3times_seeds_10p.sh -c 0 -t amos -m DBANet -e '' -l 3e-2 -w 0.1
+
 ```
 
 ---
