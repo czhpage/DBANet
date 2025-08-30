@@ -39,13 +39,14 @@ export PYTHONPATH=$(pwd)/code:$PYTHONPATH
 
 ## 🚀 Training
 Run semi-supervised training, evaluating and testing with:
-
+```bash
 bash train3times_seeds_10p.sh -c 0 -t synapse -m DBANet -e '' -l 3e-2 -w 0.1
 bash train3times_seeds_20p.sh -c 0 -t synapse -m DBANet -e '' -l 3e-2 -w 0.1
 bash train3times_seeds_40p.sh -c 0 -t synapse -m DBANet -e '' -l 3e-2 -w 0.1
 bash train3times_seeds_2p.sh -c 0 -t WORD -m DBANet -e '' -l 3e-2 -w 0.1
 bash train3times_seeds_5p.sh -c 0 -t WORD -m DBANet -e '' -l 3e-2 -w 0.1
 bash train3times_seeds_10p.sh -c 0 -t WORD -m DBANet -e '' -l 3e-2 -w 0.1
+```
 
 ---
 ## 📊 Results
