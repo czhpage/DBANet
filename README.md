@@ -49,8 +49,8 @@ The raw datasets can be obtained from the following sources:
 
 ---
 
-### Preprocessed Datasets (Optional, More Convenient)
-⚡ Alternatively, you may directly download the preprocessed datasets from the provided links (Link 1, Link 2, Link 3) corresponding to **Synapse**, **WORD**, and **AMOS**.  
+### Preprocessed Datasets (Recommended)
+⚡ Alternatively, you may directly download the preprocessed datasets from the provided links ([🔗Link 1](https://drive.google.com/drive/folders/1IoAUFLpQy0VU4p7ai2l6Slx-Ik_kT8oE?usp=drive_link), [🔗Link 2](https://drive.google.com/drive/folders/1RwLNsTaVWlqhKBZKWC2Ir41YUe0aBIRu?usp=drive_link), [🔗Link 3](https://drive.google.com/drive/folders/1qOSP50kSRHIOEjweXeNTx4Bqzq1cbVX9?usp=drive_link)) corresponding to **Synapse**, **WORD**, and **AMOS**.  
 
 ---
 
