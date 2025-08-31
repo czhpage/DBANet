@@ -12,7 +12,7 @@ This is the official PyTorch implementation of our paper:
 - 🏆 State-of-the-art performance on **Synapse**, **WORD** and **AMOS** datasets.  
 - ⚡ Efficient training and inference.  
 - 🔧 Easy to adapt to your own medical image segmentation tasks.
-- 📚 Clear comparisons with existing semi-supervised methods, making it easy to understand and learn, especially for newcomers.  
+- 📚 Clear comparisons with existing semi-supervised methods, making it easy to understand and learn, especially for newcomers.
 
 ---
 
