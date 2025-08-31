@@ -56,7 +56,46 @@ The raw datasets can be obtained from the following sources:
 
 ### 🗂 Folder Structure
 The processed dataset folders are organized as follows:  
+```bash
+./synapse_data/
+├── npy
+│ ├── <id>_image.npy
+│ ├── <id>_label.npy
+├── processed
+│ ├── <id>_image.nii.gz
+│ ├── <id>_label.nii.gz
+├── splits
+│ ├── labeled_20p.txt
+│ ├── unlabeled_20p.txt
+│ ├── train.txt
+│ ├── eval.txt
+│ ├── test.txt
+│ ├── ...
 
+./word_data/
+├── npy
+│ ├── <id>_image.npy
+│ ├── <id>_label.npy
+├── splits
+│ ├── labeled_20p.txt
+│ ├── unlabeled_20p.txt
+│ ├── train.txt
+│ ├── eval.txt
+│ ├── test.txt
+│ ├── ...
+
+./amos_data/
+├── npy
+│ ├── <id>_image.npy
+│ ├── <id>_label.npy
+├── splits
+│ ├── labeled_20p.txt
+│ ├── unlabeled_20p.txt
+│ ├── train.txt
+│ ├── eval.txt
+│ ├── test.txt
+│ ├── ...
+```
 
 ---
 
