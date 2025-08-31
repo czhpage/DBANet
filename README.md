@@ -55,7 +55,7 @@ The raw datasets can be obtained from the following sources:
 ---
 
 ### 🗂 Folder Structure
-The processed dataset folders are organized as follows:  
+The preprocessed dataset folders are organized as follows:  
 ```bash
 ./synapse_data/
 ├── npy
