@@ -40,7 +40,7 @@ export PYTHONPATH=$(pwd)/code:$PYTHONPATH
 
 ### Dataset Download
 The raw datasets can be obtained from the following sources:  
-- **Synapse**: [🔗 Link 1](https://www.synapse.org/Synapse:syn3193805/wiki/89480)  
+- **Synapse**: (https://www.synapse.org/Synapse:syn3193805/wiki/89480)  
 - **AMOS**: [🔗 Link 2](https://amos22.grand-challenge.org/)  
 - **WORD**: [🔗 Link 3](https://github.com/HiLab-git/WORD?tab=readme-ov-file)  
 
