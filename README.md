@@ -62,8 +62,8 @@ The processed dataset folders are organized as follows:
 │ ├── <id>_image.npy
 │ ├── <id>_label.npy
 ├── processed
-│ ├── <id>_image.nii.gz
-│ ├── <id>_label.nii.gz
+│ ├── <id>image.nii.gz
+│ ├── <id>label.nii.gz
 ├── splits
 │ ├── labeled_20p.txt
 │ ├── unlabeled_20p.txt
