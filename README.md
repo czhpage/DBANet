@@ -34,10 +34,28 @@ Before running the code, set the PYTHONPATH to the project root:
 ```bash
 export PYTHONPATH=$(pwd)/code:$PYTHONPATH
 ```
+---
 
-## 📂 Dataset Preparation
+## 📂 Dataset Preparation  
 
-`Synapse, WORD and AMOS datasets will be updated soon...`
+### Dataset Download
+The raw datasets can be obtained from the following sources:  
+- **Synapse**: [🔗 Link 1](https://www.synapse.org/Synapse:syn3193805/wiki/89480)  
+- **AMOS**: [🔗 Link 2](https://amos22.grand-challenge.org/)  
+- **WORD**: [🔗 Link 3](https://github.com/HiLab-git/WORD?tab=readme-ov-file)  
+
+### Preprocessing
+📌 Please follow the preprocessing steps described in the *DHC* data preparation section.  
+
+---
+
+### Preprocessed Datasets (Optional)
+⚡ Alternatively, you may directly download the preprocessed datasets from the provided links (Link 1, Link 2, Link 3) corresponding to **Synapse**, **WORD**, and **AMOS**.  
+
+---
+
+### 🗂 Folder Structure
+The processed dataset folders are organized as follows:  
 
 
 ---
